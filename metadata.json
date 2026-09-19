@@ -1,0 +1,10 @@
+{
+  "name": "FitSync AI",
+  "description": "Intelligent, adaptive fitness and wellness platform with AI coaching, personalized workout generation, pose form analysis, and gamified progress.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
